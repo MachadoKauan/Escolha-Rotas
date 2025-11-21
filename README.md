@@ -13,7 +13,7 @@ O algoritmo calcula e compara o tempo de deslocamento entre dois pontos (Moinho 
 ## 🖥️ Tecnologias
 
 * **Linguagem:** GNU Octave (Compatível com MATLAB)
-* **Conceitos:** Manipulação de Matrizes, Funções Matemáticas, Plotagem de Dados.
+* **Conceitos:** Manipulação de matrizes, funções matemáticas, plotagem de dados.
 
 ## 🚀 Como Usar
 
